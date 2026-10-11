@@ -42,7 +42,7 @@ Verilog HDL · Icarus Verilog · GTKWave
 
 Compile the design and testbench:
 
-iverilog -o alu_sim 8_bit_ALU.v ALU_tb.v
+iverilog -o alu_sim 8_bit_ALU.v 8_bit_ALU_tb.v
 
 Run the simulation:
 
