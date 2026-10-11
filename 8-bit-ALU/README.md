@@ -53,7 +53,9 @@ Open the waveform:
 gtkwave 8_bit_ALU.vcd
 
 Waveform
+## Waveform
 
+![ALU simulation waveform](alu_waveform.png)
 Learning Outcomes
 
 Practised combinational logic design, Verilog case statements, bitwise operations, status flag generation, and simulation-based verification.
