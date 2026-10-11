@@ -52,7 +52,6 @@ Open the waveform:
 
 gtkwave 8_bit_ALU.vcd
 
-Waveform
 ## Waveform
 
 ![ALU simulation waveform](ALU_waveform.png)
